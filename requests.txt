@@ -1,0 +1,9 @@
+requests
+janome
+wordcloud
+transformers
+pykakasi
+eliza
+pandas
+openpyxl
+jinja2
