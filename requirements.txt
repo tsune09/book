@@ -1,10 +1,10 @@
-steamlit
+streamlit
 requests
 janome
 wordcloud
 transformers
 pykakasi
-eliza
 pandas
 openpyxl
 jinja2
+pyyaml>=6.0  # 明示的に新しいバージョンを指定（Python 3.13 に対応）
