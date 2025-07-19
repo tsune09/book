@@ -8,4 +8,4 @@ pandas
 openpyxl
 jinja2
 pyyaml>=6.0  # 明示的に新しいバージョンを指定（Python 3.13 に対応）
-torch==2.0.1  # 例: 安定したバージョン
+torch
