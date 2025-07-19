@@ -9,3 +9,6 @@ openpyxl
 jinja2
 pyyaml>=6.0  # 明示的に新しいバージョンを指定（Python 3.13 に対応）
 torch
+tokenizers          # 追加
+sentencepiece       # 追加
+numpy               # 追加（入っていない場合）
